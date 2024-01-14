@@ -31,22 +31,19 @@ Checkout Windows-style, commit Unix-style line endings (Required)
 
 ## Git Configuration
 
-### Specify the name of the user
+### Specify the User Namae
 
->> Note: It is not required to use the same name as in Stryker Active Directory. If the Active Directory includes some additional information, such as (Contractor), you can omit it here.
 
 ```bash
 git config --global user.name "First Last"
 ```
 
-### Specify the email address of the user
-
-Note: The email address should match the Stryker Active Directory. Otherwise, you will not be able to push changes to the server.
+### Specify the email address
 
 ```bash
 git config --global user.email "first.last@gmail.com"
 ```
 
-## Installing Visual Studio Code  and Extensions
+## Installing Visual Studio Code and Extensions
 
 TODO
