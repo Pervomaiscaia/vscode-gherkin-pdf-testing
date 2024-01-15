@@ -2,11 +2,11 @@
 
 ## Description
 
-TODO
+This repository contains tests for gherkin-pdf visualstudio code extension.
 
 ## Software Under Test
 
-TODO
+[gherkin-pdf](https://marketplace.visualstudio.com/items?itemName=TestEssence.gherkin-pdf)
 
 ## Infrastructure Setup
 
@@ -31,7 +31,7 @@ Checkout Windows-style, commit Unix-style line endings (Required)
 
 ## Git Configuration
 
-### Specify the User Namae
+### Specify the User Name
 
 
 ```bash
@@ -46,4 +46,8 @@ git config --global user.email "first.last@gmail.com"
 
 ## Installing Visual Studio Code and Extensions
 
-TODO
+- [Cucumber (Gherkin) Syntax and Snippets](https://marketplace.visualstudio.com/items?itemName=stevejpurves.cucumber)
+- [gherkin-pdf](https://marketplace.visualstudio.com/items?itemName=TestEssence.gherkin-pdf)
+- [markdown-pdf](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
+- [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
