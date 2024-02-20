@@ -1,18 +1,17 @@
 Feature: Descriptions everywhere
-  This is a single line description
-
-  Scenario: two lines
+ This is a single line description 
+ 
+  Scenario: this description
   This description
   has two lines and indented with two spaces
-    Given the minimalism
 
-Scenario: without indentation
-This is a description without indentation
-  Given the minimalism
+    Scenario: without indentation
+  This is a description without indentation
+
+    Given the minimalism
 
   Scenario: empty lines in the middle
   This description
-
   has an empty line in the middle
     Given the minimalism
 
