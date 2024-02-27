@@ -57,6 +57,5 @@ Examples: Files
 | simple-comment.feature |
 | unescape_backslashes_table_cell.feature |
 | 100-lines.feature |
-| exploratory.feature |
 | long_table.feature |
 | wide_table.feature |
